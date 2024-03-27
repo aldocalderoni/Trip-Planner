@@ -1,0 +1,35 @@
+{
+    "Created on": "2023-12-16_14-53-05",
+    "Base Currency": "USD",
+    "Total Cost of the Whole Trip": 9007.480824058162,
+    "Total Trip Duration (days)": 42,
+    "List of Destinations": [
+        {
+            "Travelers": 2,
+            "Destination": "Fukuoka",
+            "Currency": "JPY",
+            "Exchange Rate": 141.99,
+            "Total Cost": 3380.5197549123177,
+            "Trip Duration (days)": 30,
+            "Daily Budget per Traveler": 56.341995915205295
+        },
+        {
+            "Travelers": 2,
+            "Destination": "Portland",
+            "Currency": "USD",
+            "Exchange Rate": 1,
+            "Total Cost": 4000.0,
+            "Trip Duration (days)": 5,
+            "Daily Budget per Traveler": 400.0
+        },
+        {
+            "Travelers": 2,
+            "Destination": "Guadalajara",
+            "Currency": "MXN",
+            "Exchange Rate": 17.21,
+            "Total Cost": 1626.9610691458454,
+            "Trip Duration (days)": 7,
+            "Daily Budget per Traveler": 116.21150493898895
+        }
+    ]
+}

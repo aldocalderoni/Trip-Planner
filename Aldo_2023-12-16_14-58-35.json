@@ -1,0 +1,17 @@
+{
+    "Created on": "2023-12-16_14-58-35",
+    "Base Currency": "MXN",
+    "Total Cost of the Whole Trip": 137693.63166953527,
+    "Total Trip Duration (days)": 10,
+    "List of Destinations": [
+        {
+            "Travelers": 2,
+            "Destination": "New York",
+            "Currency": "USD",
+            "Exchange Rate": 0.0581,
+            "Total Cost": 137693.63166953527,
+            "Trip Duration (days)": 10,
+            "Daily Budget per Traveler": 6884.681583476764
+        }
+    ]
+}
